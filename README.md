@@ -57,8 +57,8 @@
 <br>
 <h1 align="left">Statistics</h1>
 <p align=""left>
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=gokhanaltun&theme=ayu-mirage&hide_border=true&show_icons=true&locale=en" alt="gokhanaltun" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gokhanaltun&theme=ayu-mirage&hide_border=true" alt="gokhanaltun" />
+    <img src="https://github-readme-stats.vercel.app/api?username=gokhanaltun&theme=ayu-mirage&hide_border=true&show_icons=true&locale=en" alt="gokhanaltun" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokhanaltun&theme=ayu-mirage&hide_border=true" alt="gokhanaltun" />
 </p>
 
 <p>
