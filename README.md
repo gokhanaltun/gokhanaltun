@@ -55,10 +55,15 @@
 </p>
 
 <br>
+<h1 align="left">My Apps On Google Play</h1>
+<p><a href="https://play.google.com/store/apps/details?id=com.gkhn.textrecognizer">-Text Scanner(OCR) App</a></p>
+<p><a href="https://play.google.com/store/apps/details?id=com.gkhn.imagecompressor">-Image Compressor App</a></p>
+
+<br>
 <h1 align="left">Statistics</h1>
 <p align=""left>
-    <img src="https://github-readme-stats.vercel.app/api?username=gokhanaltun&theme=ayu-mirage&hide_border=true&show_icons=true&locale=en" alt="gokhanaltun" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokhanaltun&theme=ayu-mirage&hide_border=true" alt="gokhanaltun" />
+    <img width="49.5%"src="https://github-readme-stats.vercel.app/api?username=gokhanaltun&theme=ayu-mirage&hide_border=true&show_icons=true&locale=en" alt="gokhanaltun" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=gokhanaltun&theme=ayu-mirage&hide_border=true" alt="gokhanaltun" />
 </p>
 
 <p>
