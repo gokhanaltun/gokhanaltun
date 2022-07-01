@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gökhan</h1>
-<h3 align="center">I am interested in software as a hobby and I’m currently learning Android App Development</h3>
+<h3 align="center">I am interested in software as a hobby and I’m currently learning Native Android App Development</h3>
 
 <br>
 <h1 align="left">Languages And Tools:</h1>
