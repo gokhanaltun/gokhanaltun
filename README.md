@@ -60,6 +60,10 @@
 <p><a href="https://play.google.com/store/apps/details?id=com.gkhn.imagecompressor">-Image Compressor App</a></p>
 
 <br>
+<h1 align="left">My Other Projects On Google Play</h1>
+<p><a href="https://github.com/gokhanaltun/KotlinNewsApp">-KotlinNewsApp</a></p>
+
+<br>
 <h1 align="left">Statistics</h1>
 <p align=""left>
     <img width="49.5%"src="https://github-readme-stats.vercel.app/api?username=gokhanaltun&theme=ayu-mirage&hide_border=true&show_icons=true&locale=en" alt="gokhanaltun" />
