@@ -60,7 +60,7 @@
 <p><a href="https://play.google.com/store/apps/details?id=com.gkhn.imagecompressor">-Image Compressor App</a></p>
 
 <br>
-<h1 align="left">My Other Projects On Google Play</h1>
+<h1 align="left">My Other Projects On GitHub</h1>
 <p><a href="https://github.com/gokhanaltun/KotlinNewsApp">-KotlinNewsApp</a></p>
 
 <br>
