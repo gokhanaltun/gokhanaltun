@@ -61,8 +61,8 @@
 
 <br>
 <h1 align="left">My Other Projects On GitHub</h1>
-<p><a href="https://github.com/gokhanaltun/KotlinNewsApp">-KotlinNewsApp</a></p>
-<p><a href="https://github.com/gokhanaltun/Kotlin-Image-Search-App">-KotlinImageSearchApp</a></p>
+<p><a href="https://github.com/gokhanaltun/KotlinNewsApp">-Kotlin News App</a></p>
+<p><a href="https://github.com/gokhanaltun/Kotlin-Image-Search-App">-Kotlin Image Search App</a></p>
 
 <br>
 <h1 align="left">Statistics</h1>
