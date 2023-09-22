@@ -2,7 +2,8 @@
 👋🏻 Hi i'm Gökhan<br>
 ⚡ I am interested in software development as a hobby<br>
 🔥I'm currently learning web back-end development with Laravel.
-
+---
+<br>
 
 ## 💻 Tech Stack:
 - Android (Kotlin)
@@ -11,15 +12,18 @@
 - Python (Selenium, Qt Designer, Pyqt5)
 - Design (Adobe Ps)
 - Os (Windows, Linux)
+---
+<br>
 
 ## My Apps on Google Play
-- <a href="">Text Scanner(OCR)</a>
-- <a href="">Image Compressor</a>
-
+- <a href="https://play.google.com/store/apps/details?id=com.gkhn.textrecognizer">Text Scanner(OCR)</a>
+- <a href="https://play.google.com/store/apps/details?id=com.gkhn.imagecompressor">Image Compressor</a>
+---
+<br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gokhanaltun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gokhanaltun&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gokhanaltun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br><br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gokhanaltun&theme=dark&hide_border=false)<br><br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gokhanaltun&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
