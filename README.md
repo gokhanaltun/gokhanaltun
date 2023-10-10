@@ -1,6 +1,6 @@
 ## 💫 About Me:
 👋🏻 Hi i'm Gökhan<br>
-⚡ I am interested in software development as a hobby<br>
+⚡ I am interested in software development<br>
 🔥I'm currently learning web back-end development with Laravel.
 ---
 <br>
