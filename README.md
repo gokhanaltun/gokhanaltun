@@ -6,10 +6,10 @@
 <br>
 
 ## 💻 Tech Stack:
-- Android (Kotlin)
-- Web (Html, Css, Php, Laravel, Redis, RabbitMQ, Javascript, Nodejs, Express)
-- Database (Mysql, Sqlite, Firebase)
-- Python (Selenium, Qt Designer, Pyqt5)
+- Android (Android Studio, Kotlin)
+- Web (Html, Css, Laravel, Redis, RabbitMQ, Django, Flask, Celery)
+- Database (MySQL, PostgreSQL, MongoDB, Sqlite, Firebase)
+- Automation (Python - Selenium)
 - Design (Adobe Ps)
 - Os (Windows, Linux)
 ---
