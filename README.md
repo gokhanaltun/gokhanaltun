@@ -1,17 +1,37 @@
 ## 💫 About Me:
 👋🏻 Hi i'm Gökhan<br>
-⚡ I am interested in software development<br>
-🔥I'm currently learning web back-end development with Laravel.
+🔥I'm currently work as a freelance software developer.
 ---
 <br>
 
 ## 💻 Tech Stack:
-- Android (Android Studio, Kotlin)
-- Web (Html, Css, Laravel, Redis, RabbitMQ, Django, Flask, Celery)
-- Database (MySQL, PostgreSQL, MongoDB, Sqlite, Firebase)
-- Automation (Python - Selenium)
-- Design (Adobe Ps)
-- Os (Windows, Linux)
+- **Android**
+  - Android Studio
+  - Kotlin
+- **Web**
+  - **Front-End**
+    - Html 
+    - Css
+  - **Back-End** 
+    - Laravel 
+    - Redis
+    - RabbitMQ
+    - Django
+    - Flask
+    - Celery
+- **Database**
+  - MySQL
+  - PostgreSQL
+  - MongoDB
+  - Sqlite
+  - Firebase
+- **Automation**
+  - Python - Selenium
+- **Design**
+  - Adobe Ps
+- **Os**
+  - Windows
+  - Linux
 ---
 <br>
 
