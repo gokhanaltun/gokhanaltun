@@ -26,7 +26,9 @@
   - Sqlite
   - Firebase
 - **Automation**
-  - Python - Selenium
+  - Python
+  - Selenium
+  - Playwrigth
 - **Design**
   - Adobe Ps
 - **Os**
