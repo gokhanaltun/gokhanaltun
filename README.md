@@ -5,32 +5,28 @@
 <br>
 
 ## 💻 Tech Stack:
-- **Android**
+- **Android (- I'm not interested anymore! )**
   - Android Studio
   - Kotlin
 - **Web**
   - **Front-End**
     - Html 
     - Css
-  - **Back-End** 
-    - Laravel 
+    - JS
+  - **Back-End**
+    - Django
     - Redis
     - RabbitMQ
-    - Django
-    - Flask
     - Celery
-- **Database**
-  - MySQL
-  - PostgreSQL
-  - MongoDB
-  - Sqlite
-  - Firebase
+- **Blockchain**
+  - **Ethereum Smart Contracts**
+    - Solidity
+    - Ganache
+    - Truffle
 - **Automation**
   - Python
   - Selenium
   - Playwrigth
-- **Design**
-  - Adobe Ps
 - **Os**
   - Windows
   - Linux
