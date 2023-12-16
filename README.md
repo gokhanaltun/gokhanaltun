@@ -9,21 +9,21 @@
   - Android Studio
   - Kotlin
 - **Web**
-  - **Front-End**
+  - **Front-End (- Basic Level)**
     - Html 
     - Css
     - JS
-  - **Back-End**
+  - **Back-End (- Advanced Level)**
     - Django
     - Redis
     - RabbitMQ
     - Celery
 - **Blockchain**
-  - **Ethereum Smart Contracts**
+  - **Smart Contracts (- Advanced Level)**
     - Solidity
     - Ganache
     - Truffle
-- **Automation**
+- **Automation (- Advanced Level)**
   - Python
   - Selenium
   - Playwrigth
