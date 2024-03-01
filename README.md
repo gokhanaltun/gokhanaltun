@@ -13,6 +13,7 @@
     - Html 
     - Css
     - JS
+    - React-JS
   - **Back-End (- Advanced Level)**
     - Django
     - Redis
