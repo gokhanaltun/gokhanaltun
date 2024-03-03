@@ -15,7 +15,7 @@
     - JS
     - React-JS
     - Vue-JS
-  - **Back-End (- Advanced Level)**
+  - **Back-End (- Basic Level)**
     - Django
     - Redis
     - RabbitMQ
