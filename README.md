@@ -14,6 +14,7 @@
     - Css
     - JS
     - React-JS
+    - Vue-JS
   - **Back-End (- Advanced Level)**
     - Django
     - Redis
