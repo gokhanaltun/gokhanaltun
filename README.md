@@ -20,6 +20,8 @@
     - Redis
     - RabbitMQ
     - Celery
+    - Node-JS
+    - Express-JS
 - **Blockchain**
   - **Smart Contracts (- Advanced Level)**
     - Solidity
