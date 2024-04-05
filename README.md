@@ -5,32 +5,34 @@
 <br>
 
 ## 💻 Tech Stack:
-- **Android (- I'm not interested anymore! )**
-  - Android Studio
-  - Kotlin
+- **Blockchain**
+  - **Smart Contracts (- Advanced Level)**
+    - Solidity
+    - Ganache
+    - Hardhat
+    - Truffle
+- **Financial Scripting (- Advanced Level)**
+  - TradingView Indicators
+  - PineScript
+- **Automation (- Advanced Level)**
+  - Python
+  - Selenium
+  - Playwrigth
 - **Web**
   - **Front-End (- Basic Level)**
     - Html 
     - Css
     - JS
-    - React-JS
     - Vue-JS
+    - React-JS
   - **Back-End (- Mid Level)**
-    - Django
-    - Redis
-    - RabbitMQ
-    - Celery
     - Node-JS
     - Express-JS
-- **Blockchain**
-  - **Smart Contracts (- Advanced Level)**
-    - Solidity
-    - Ganache
-    - Truffle
-- **Automation (- Advanced Level)**
-  - Python
-  - Selenium
-  - Playwrigth
+    - Redis
+    - RabbitMQ
+- **Android (- I'm not interested anymore! )**
+  - Android Studio
+  - Kotlin
 - **Os**
   - Windows
   - Linux
