@@ -47,6 +47,11 @@
 ---
 <br>
 
+## My NFTs on Opensea
+- <a href="https://opensea.io/5gkhn2">Opensea/5gkhn2</a>
+---
+<br>
+
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=gokhanaltun&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gokhanaltun&theme=dark&hide_border=false)<br><br>
