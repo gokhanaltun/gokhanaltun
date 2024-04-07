@@ -8,9 +8,11 @@
 - **Blockchain**
   - **Smart Contracts (- Advanced Level)**
     - Solidity
-    - Ganache
     - Hardhat
     - Truffle
+    - Ganache
+    - Ethers-JS
+    - Web3-JS
 - **Financial Scripting (- Advanced Level)**
   - TradingView Indicators
   - PineScript
