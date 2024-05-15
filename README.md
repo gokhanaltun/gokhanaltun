@@ -28,6 +28,8 @@
     - Vue-JS
     - React-JS
   - **Back-End (- Mid Level)**
+    - Golang
+    - Gin Framework 
     - Node-JS
     - Express-JS
     - Redis
