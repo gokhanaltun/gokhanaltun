@@ -9,7 +9,6 @@
   - **Smart Contracts (- Advanced Level)**
     - Solidity
     - Hardhat
-    - Truffle
     - Ganache
     - Ethers-JS
     - Web3-JS
@@ -29,9 +28,7 @@
     - React-JS
   - **Back-End (- Mid Level)**
     - Golang
-    - Gin Framework 
     - Node-JS
-    - Express-JS
     - Redis
     - RabbitMQ
 - **Android (- I'm not interested anymore! )**
