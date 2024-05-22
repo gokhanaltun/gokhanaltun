@@ -31,6 +31,8 @@
     - Node-JS
     - Redis
     - RabbitMQ
+- **Containerization**
+  - Docker
 - **Android (- I'm not interested anymore! )**
   - Android Studio
   - Kotlin
