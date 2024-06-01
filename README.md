@@ -33,7 +33,7 @@
     - RabbitMQ
 - **Containerization**
   - Docker
-- **Android (- I'm not interested anymore! )**
+- **Android (- Basic Level )**
   - Android Studio
   - Kotlin
 - **Os**
