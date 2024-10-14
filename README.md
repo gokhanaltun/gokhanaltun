@@ -9,9 +9,9 @@
   - **Smart Contracts (- Advanced Level)**
     - Solidity
     - Hardhat
+    - Foundry
     - Ganache
     - Ethers-JS
-    - Web3-JS
 - **Financial Scripting (- Advanced Level)**
   - TradingView Indicators
   - PineScript
@@ -28,7 +28,6 @@
     - React-JS
   - **Back-End (- Mid Level)**
     - Golang
-    - Node-JS
     - Redis
     - RabbitMQ
 - **Containerization**
@@ -37,8 +36,8 @@
   - Android Studio
   - Kotlin
 - **Os**
-  - Windows
   - Linux
+  - Windows
 ---
 <br>
 
@@ -54,4 +53,4 @@
 <br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/5gkhn2) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/5gkhn2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/5gkhn2/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/5gkhn2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/5gkhn2/) 
