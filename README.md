@@ -17,7 +17,6 @@
   - PineScript
 - **Automation (- Advanced Level)**
   - Python
-  - Selenium
   - Playwrigth
 - **Web**
   - **Front-End (- Basic Level)**
@@ -26,7 +25,7 @@
     - JS
     - Vue-JS
     - React-JS
-  - **Back-End (- Mid Level)**
+  - **Back-End (- Basic Level)**
     - Golang
     - Redis
     - RabbitMQ
