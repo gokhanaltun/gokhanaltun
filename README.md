@@ -25,10 +25,11 @@
     - JS
     - Vue-JS
     - React-JS
-  - **Back-End (- Basic Level)**
+  - **Back-End (- Advanced Level)**
     - Golang
+    - Echo
     - Redis
-    - RabbitMQ
+    - MongoDB
 - **Containerization**
   - Docker
 - **Android (- Basic Level )**
