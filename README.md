@@ -23,8 +23,7 @@
     - Html 
     - Css
     - JS
-    - Vue-JS
-    - React-JS
+    - Svelte
   - **Back-End (- Advanced Level)**
     - Golang
     - Echo
