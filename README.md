@@ -23,7 +23,7 @@
     - Html 
     - Css
     - JS
-    - Svelte
+
   - **Back-End (- Advanced Level)**
     - Golang
     - Echo
@@ -46,10 +46,6 @@
 ---
 <br>
 
-## My NFTs on Opensea
-- <a href="https://opensea.io/5gkhn2">Opensea/5gkhn2</a>
----
-<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/5gkhn2/) 
