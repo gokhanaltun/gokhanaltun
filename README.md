@@ -23,7 +23,6 @@
     - Html 
     - Css
     - JS
-
   - **Back-End (- Advanced Level)**
     - Golang
     - Echo
@@ -37,12 +36,6 @@
 - **Os**
   - Linux
   - Windows
----
-<br>
-
-## My Apps on Google Play
-- <a href="https://play.google.com/store/apps/details?id=com.gkhn.textrecognizer">Text Scanner(OCR)</a>
-- <a href="https://play.google.com/store/apps/details?id=com.gkhn.imagecompressor">Image Compressor</a>
 ---
 <br>
 
