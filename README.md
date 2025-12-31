@@ -23,8 +23,12 @@
     - Html 
     - Css
     - JS
+    - SolidJS
   - **Back-End (- Advanced Level)**
     - Golang
+    - NodeJS
+    - TypeScript
+    - ExpressJS
     - Echo
     - Redis
     - MongoDB
